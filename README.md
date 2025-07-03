@@ -17,7 +17,7 @@ This project is purely an experiment and should **NOT** be used for actual class
 ## **How to Set Up**
 
 ### **1. Install and Configure VB-Audio Virtual Cable**
-If you're on Windows, VB-Audio Virtual Cable is required to route audio from Google Meet into the AI for processing.
+If you're on Windows, VB-Audio Virtual Cable is required to route audio from Google Meet into the AI for processing
 
 #### **Steps to Install VB-Audio Virtual Cable:**
 1. Go to the [VB-Audio Virtual Cable download page](https://vb-audio.com/Cable/).
