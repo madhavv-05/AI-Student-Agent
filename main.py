@@ -174,7 +174,7 @@ def capture_audio_from_virtual_device():
     print("FRAMES_PER_BUFFER:", frames_per_buffer)
 
     try:
-        # Open the audio stream
+        # Open  audio stream
         stream = p.open(
             format=pyaudio.paInt16,
             channels=channels,
